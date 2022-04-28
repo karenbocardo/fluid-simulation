@@ -1,0 +1,43 @@
+{
+    "sources":[
+        {
+            "pos": {
+              "x": 10,
+              "y": 10
+            },
+            "size": 3,
+            "density": 200,
+            "velo": {
+              "x": 3,
+              "y": 1,
+              "behaviour": 1
+            }
+        },
+        {
+            "pos": {
+              "x": 40,
+              "y": 40
+            },
+            "size": 3,
+            "density": 200,
+            "velo": {
+              "x": 3,
+              "y": -2, 
+              "behaviour": 1
+            }
+        }
+    ],
+    "objects": [
+      {
+        "pos": {
+          "x": 10,
+          "y": 50
+        },
+        "size": {
+          "height": 5,
+          "width": 5
+        },
+        "density": 400
+      }
+    ]
+  }

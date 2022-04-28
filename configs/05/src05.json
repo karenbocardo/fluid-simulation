@@ -1,0 +1,54 @@
+{
+    "sources":[
+        {
+            "pos": {
+              "x": 30,
+              "y": 10
+            },
+            "size": 3,
+            "density": 200,
+            "velo": {
+              "x": 5,
+              "y": -1,
+              "behaviour": 0
+            }
+        },
+        {
+            "pos": {
+              "x": 30,
+              "y": 30
+            },
+            "size": 3,
+            "density": 200,
+            "velo": {
+              "x": 1,
+              "y": 1, 
+              "behaviour": 1
+            }
+        }
+    ],
+    "objects": [
+      {
+        "pos": {
+          "x": 10,
+          "y": 30
+        },
+        "size": {
+          "height": 3,
+          "width": 3
+        },
+        "density": 500
+      },
+      {
+        "pos": {
+          "x": 50,
+          "y": 30
+        },
+        "size": {
+          "height": 3,
+          "width": 3
+        },
+        "density": 500
+      }
+    ]
+  }
